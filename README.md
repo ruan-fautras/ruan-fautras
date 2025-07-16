@@ -17,8 +17,7 @@
 
 ## 📫 How to reach me  
 - GitHub: [@ruan-fautras](https://github.com/ruan-fautras)  
-- Email: *(to add)*  
-- LinkedIn: *(to add if you want)*  
+- Email: ruan.fautras@proton.me
 
 <!---
 ruan-fautras/ruan-fautras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
