@@ -7,7 +7,6 @@
 
 ## 🌱 Currently learning  
 - C++  
-- Python  
 - JavaScript  
 
 ## 💞️ Looking to collaborate on  
